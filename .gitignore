@@ -1,0 +1,4 @@
+CopilotRetentionGap-*.csv
+CopilotRetentionGap-*.html
+*.csv
+!exemples/*.csv
